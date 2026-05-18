@@ -15,7 +15,7 @@ var abc12 = 34; // used above line and duplicate it using shift+alt+down arrow k
 var abc12 = 34;
 var abc12 = 34;
 var abc12 = 34;
-var abc12 = 34;
+var abc12 = 34; // we can use cntrl +s to format the lines to the left
 
 
 
