@@ -22,6 +22,12 @@ A hands-on repository for learning Playwright automation testing, starting with 
 - **Chapter 06 - Operators**: JavaScript operators (assignment, arithmetic, comparison, logical, ternary, nullish, increment/decrement, type, string concatenation)
   - Files: `30_Assignment_operators.js`, `31_Arithmatic_operators.js`, `32_Modulus_OP.js`, `33_Exponential_OP.js`, `34_IQ.js`, `35_Comparison_Op.js`, `36_Comparison_Strict_loose.js`, `37_IQ_Loose_Strict.js`, `38_Confusing_Comparison.js`, `39_Logical_Op.js`, `40_String_Con_Op.js`, `41_Ternary_op.js`, `42_Type_Op.js`, `43_Incre_Decre_Op.js`, `44_Null_Op.js`, `45_Post_increment.js`, `46_IQ_INCREMENT_D.js`, `47_ADVANCE_ID.js`
 
+- **Chapter 07 - If Else**: Conditional statements (if, else if, else) with real-world examples, grade calculator, leap year checker, and interview questions
+  - Files: `48_If_Else.js`, `49_If_elseif_else.js`, `50_Real_If_Else.js`, `51_API_IF_ELSE.js`, `52_IQ_IF_ELSE.js`, `53_IF_ELSE_real.js`, `54_IQ.js`, `55_If_or_Else.js`, `56_IQ_Even_Odd.js`, `57_Grade_Calculator.js`, `58_LEAP_YEAR.js`
+
+- **Chapter 08 - Switch Statement**: JavaScript switch statement for conditional branching
+  - Files: `59_Switch.js`
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/)
