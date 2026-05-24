@@ -20,7 +20,7 @@ A hands-on repository for learning Playwright automation testing, starting with 
   - Files: `22_Literal.js`, `23_null_undefined.js`, `24_null.js`, `25_Literal_All.js`, `26_Literal_Number_all.js`, `27_String.js`, `28_Template_Literal.js`, `29_Backtick_single_double.js`
 
 - **Chapter 06 - Operators**: JavaScript operators (assignment, arithmetic, comparison, logical, ternary, nullish, increment/decrement, type, string concatenation)
-  - Files: `30_Assignment_operators.js`, `31_Arithmatic_operators.js`, `32_Modulus_OP.js`, `33_Exponential_OP.js`, `34_IQ.js`, `35_Comparison_Op.js`, `36_Comparison_Strict_loose.js`, `37_IQ_Loose_Strict.js`, `38_Confusing_Comparison.js`, `39_Logical_Op.js`, `40_String_Con_Op.js`, `41_Ternary_op.js`, `42_Type_Op.js`, `43_Incre_Decre_Op.js`, `44_Null_Op.js`
+  - Files: `30_Assignment_operators.js`, `31_Arithmatic_operators.js`, `32_Modulus_OP.js`, `33_Exponential_OP.js`, `34_IQ.js`, `35_Comparison_Op.js`, `36_Comparison_Strict_loose.js`, `37_IQ_Loose_Strict.js`, `38_Confusing_Comparison.js`, `39_Logical_Op.js`, `40_String_Con_Op.js`, `41_Ternary_op.js`, `42_Type_Op.js`, `43_Incre_Decre_Op.js`, `44_Null_Op.js`, `45_Post_increment.js`, `46_IQ_INCREMENT_D.js`, `47_ADVANCE_ID.js`
 
 ## Prerequisites
 
