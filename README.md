@@ -25,8 +25,11 @@ A hands-on repository for learning Playwright automation testing, starting with 
 - **Chapter 07 - If Else**: Conditional statements (if, else if, else) with real-world examples, grade calculator, leap year checker, and interview questions
   - Files: `48_If_Else.js`, `49_If_elseif_else.js`, `50_Real_If_Else.js`, `51_API_IF_ELSE.js`, `52_IQ_IF_ELSE.js`, `53_IF_ELSE_real.js`, `54_IQ.js`, `55_If_or_Else.js`, `56_IQ_Even_Odd.js`, `57_Grade_Calculator.js`, `58_LEAP_YEAR.js`
 
-- **Chapter 08 - Switch Statement**: JavaScript switch statement for conditional branching
-  - Files: `59_Switch.js`
+- **Chapter 08 - Switch Statement**: JavaScript switch statement for conditional branching with break/grouping and interview questions
+  - Files: `59_Switch.js`, `60_No_break.js`, `62_Real_time_example.js`, `63_Switch_group.js`, `64_IQ.js`, `65_IQ_2.js`, `66_IQ_3.js`, `67_IQ_4.js`
+
+- **Chapter 09 - User Input**: Taking user input in JavaScript using prompt-sync and Node.js readline
+  - Files: `68_User_Input.js`, `69_Node_readline.js`, `70_prompt_sync.js`
 
 ## Prerequisites
 
