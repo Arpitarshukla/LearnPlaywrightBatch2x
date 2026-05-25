@@ -12,8 +12,8 @@ switch (value) {
 
 // another example
 
-let status = 0;
-console.log(typeof status);
+let status = 0;                   // it will select 0 matched
+console.log(typeof status);       // number  just to know why 0 is selected here
 
 switch (status) {
     case false:

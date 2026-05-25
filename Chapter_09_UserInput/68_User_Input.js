@@ -9,3 +9,7 @@ if (num % 2 === 0) {
 } else {
     console.log(num + "is odd");
 }
+
+
+// it will run in console
+// it is available in javascript engine or browser only

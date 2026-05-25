@@ -31,6 +31,9 @@ A hands-on repository for learning Playwright automation testing, starting with 
 - **Chapter 09 - User Input**: Taking user input in JavaScript using prompt-sync and Node.js readline
   - Files: `68_User_Input.js`, `69_Node_readline.js`, `70_prompt_sync.js`
 
+- **Chapter 10 - Loops**: For, while, and do-while loops with interview questions and the continue statement
+  - Files: `71_For_loops.js`, `72_For_Loops.js`, `73_For_Loop2.js`, `74_IQ.js`, `75_For_Of_In_Each.js`, `76_While_loop.js`, `77_Do_While.js`, `78_Do_While.js`, `79_IQ.js`, `80_IQ.js`, `81_IQ.js`, `82_IQ.js`
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/)

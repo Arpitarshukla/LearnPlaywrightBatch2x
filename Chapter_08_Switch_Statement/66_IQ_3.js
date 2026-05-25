@@ -11,3 +11,6 @@ switch (x) {
     default:
         console.log("d");
 }
+
+// it will allow you to have duplicate case with first as the usage.
+// it will run first case.
