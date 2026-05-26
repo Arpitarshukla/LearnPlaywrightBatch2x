@@ -8,4 +8,5 @@ while (count < 5) {
 let n = 1;
 do {
     console.log(n);
-} while (n < 3);
+} while (n < 3);   // 1--infinity    ------infinite condition
+//n=1, and 1<3 condition is true... it will keep doing this continously

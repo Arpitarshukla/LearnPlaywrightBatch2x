@@ -25,3 +25,5 @@
 for (let i = 0; i < 1; i++) {
     console.log(i);
 }
+
+// only one time 0 is printed as first time it is 0 and next time it will be 1 then won't print.
