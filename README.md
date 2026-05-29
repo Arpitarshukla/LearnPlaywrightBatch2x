@@ -34,7 +34,8 @@ A hands-on repository for learning Playwright automation testing, starting with 
 - **Chapter 10 - Loops**: For, while, and do-while loops with interview questions and the continue statement
   - Files: `71_For_loops.js`, `72_For_Loops.js`, `73_For_Loop2.js`, `74_IQ.js`, `75_For_Of_In_Each.js`, `76_While_loop.js`, `77_Do_While.js`, `78_Do_While.js`, `79_IQ.js`, `80_IQ.js`, `81_IQ.js`, `82_IQ.js`
 
-- **Chapter 11 - Arrays**: JavaScript arrays with creation, access, adding/removing elements, searching, iterating, and transforming
+- **Chapter 11 - Arrays**: JavaScript arrays with creation, access, adding/removing elements, searching, iterating, transforming, and sorting
+  - ⚠️ `sort()` converts elements to strings and sorts lexicographically (e.g., `[10, 1, 21, 2].sort()` yields `[1, 10, 2, 21]`). Use a comparator for numeric sort: `sort((a, b) => a - b)`.
   - Files: `83_Arrays.js`, `84_Array.js`, `84_Array2.js`, `85_Access_Array.js`, `86_Arrays_Adding_Remove.js`, `87_Adding_Remove2.js`, `88_Real_Example.js`, `89_Searching.js`, `90_Iterate.js`, `91_Transform_Array.js`
 
 ## Prerequisites
