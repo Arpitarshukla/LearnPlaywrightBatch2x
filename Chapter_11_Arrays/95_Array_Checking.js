@@ -27,7 +27,7 @@ console.log(statuscode); // false
 
 // Some- AT LEAST  One must pass
 
-let c1 = [80, 60, 85].some(s => s < 70); // true
+let c1 = [80, 60, 85].some(s => s < 70); // true -----> concept of atleast one value is less than 70
 console.log(c1); //true
 
 let c2 = [80, 90, 85].some(s => s < 70); // false

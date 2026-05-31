@@ -38,6 +38,9 @@ A hands-on repository for learning Playwright automation testing, starting with 
   - ⚠️ `sort()` converts elements to strings and sorts lexicographically (e.g., `[10, 1, 21, 2].sort()` yields `[1, 10, 2, 21]`). Use a comparator for numeric sort: `sort((a, b) => a - b)`.
   - Files: `83_Arrays.js`, `84_Array.js`, `84_Array2.js`, `85_Access_Array.js`, `86_Arrays_Adding_Remove.js`, `87_Adding_Remove2.js`, `88_Real_Example.js`, `89_Searching.js`, `90_Iterate.js`, `91_Transform_Array.js`
 
+- **Chapter 12 - Functions**: Function types (no param/no return, with param/no return, no param/with return, with param/with return), template literals, function expressions, and arrow functions
+  - Files: `96_Function.js`, `97_Type1_Fn_Basic_Function.js`, `98_Type2_Fn_With_Param_No_Return.js`, `99_Type3_Fn_without_Param_Return_Type.js`, `100_Type4_Fn_With_Param_With_Return.js`, `101_Template_literal.js`, `102_Fn_Expression.js`, `103_Arrow_fn.js`
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/)
