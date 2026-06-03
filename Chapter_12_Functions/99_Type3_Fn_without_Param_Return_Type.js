@@ -10,7 +10,7 @@ function sayHello() {
 let relative = sayHello();
 console.log(relative);
 
-
+//ex 2-
 function goToRelativeHouse() {
     console.log("Hi");
     return "Hello";

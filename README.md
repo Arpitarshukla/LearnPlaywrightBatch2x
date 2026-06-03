@@ -38,8 +38,8 @@ A hands-on repository for learning Playwright automation testing, starting with 
   - ⚠️ `sort()` converts elements to strings and sorts lexicographically (e.g., `[10, 1, 21, 2].sort()` yields `[1, 10, 2, 21]`). Use a comparator for numeric sort: `sort((a, b) => a - b)`.
   - Files: `83_Arrays.js`, `84_Array.js`, `84_Array2.js`, `85_Access_Array.js`, `86_Arrays_Adding_Remove.js`, `87_Adding_Remove2.js`, `88_Real_Example.js`, `89_Searching.js`, `90_Iterate.js`, `91_Transform_Array.js`, `93_Array_Slicing.js`, `94_Concat_array.js`, `95_Array_Checking.js`
 
-- **Chapter 12 - Functions**: Function types (no param/no return, with param/no return, no param/with return, with param/with return), template literals, function expressions, and arrow functions
-  - Files: `96_Function.js`, `97_Type1_Fn_Basic_Function.js`, `98_Type2_Fn_With_Param_No_Return.js`, `99_Type3_Fn_without_Param_Return_Type.js`, `100_Type4_Fn_With_Param_With_Return.js`, `101_Template_literal.js`, `102_Fn_Expression.js`, `103_Arrow_fn.js`
+- **Chapter 12 - Functions**: Function types, template literals, function expressions, arrow functions, IIFE, default/rest/spread params, scope, closures, higher-order functions, and pure functions
+  - Files: `96_Function.js`, `97_Type1_Fn_Basic_Function.js`, `98_Type2_Fn_With_Param_No_Return.js`, `99_Type3_Fn_without_Param_Return_Type.js`, `100_Type4_Fn_With_Param_With_Return.js`, `101_Template_literal.js`, `102_Fn_Expression.js`, `103_Arrow_fn.js`, `104_Arrow_fn_Real.js`, `105_IIFE.js`, `106_Default_Param_Fn.js`, `107_IQ.js`, `108_Rest_Param_Fn.js`, `109_IQ.js`, `110_Spread_IQ.js`, `111_Scope_Fn.js`, `112_IQ.js`, `113_Closure_Fn.js`, `114_Closure.js`, `115_API_REAL_Closure.js`, `116_Higher_Order_Fn.js`, `117_Pure_Fn.js`
 
 ## Prerequisites
 

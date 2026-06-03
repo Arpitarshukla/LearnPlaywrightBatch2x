@@ -5,4 +5,4 @@ let result = greet(" Alice"); //In this type we need to save the result, then on
 console.log(result);
 
 
-//doubt: console .log just print the line but return will send the value also
+//doubt: console .log just print the line but return will send the value also like data flow
