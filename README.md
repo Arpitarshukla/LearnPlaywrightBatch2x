@@ -44,6 +44,9 @@ A hands-on repository for learning Playwright automation testing, starting with 
 - **Chapter 13 - Strings**: String methods, properties, search/check, substring, transformation, and conversion with a quick-reference cheat sheet
   - Files: `118_Strings.js`, `119_String_Properties.js`, `120_Search_Check_Str.js`, `121_Substring.js`, `122_Transform_Str.js`, `123_Strin_Conversion.js`, `javascript_stringcheatsheet.md`
 
+- **Chapter 14 - Objects**: JavaScript objects — creation, real-world usage, primitive vs reference, deconstructuring, spread operator, getters/setters, and interview questions
+  - Files: `124_Object.js`, `125_Objects2.js`, `126_Objects_Creation.js`, `127_Objects_Real.js`, `128_Primitive_Ref.js`, `129_Object_Examples.js`, `130_IQ.js`, `131_Object_Fn.js`, `132_Obj_Deconstruct.js`, `133_Spread.js`, `134_Objects_Get_Set_Method.js`, `135_IQ.js`, `136_Object_Real.js`
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/)
