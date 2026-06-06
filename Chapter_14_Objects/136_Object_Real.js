@@ -34,8 +34,9 @@ const config = {
     logLevel: 'Info',
 
     //Retry configuration
-    retryCount: parseInt(ProcessingInstruction.env.RETRY_COUNT || '3', 10),
+    retryCount: parseInt(process.env.RETRY_COUNT || '3', 10),
 
 };
 
 
+//Creating Object we will take const over let
