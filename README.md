@@ -47,6 +47,12 @@ A hands-on repository for learning Playwright automation testing, starting with 
 - **Chapter 14 - Objects**: JavaScript objects — creation, real-world usage, primitive vs reference, deconstructuring, spread operator, getters/setters, and interview questions
   - Files: `124_Object.js`, `125_Objects2.js`, `126_Objects_Creation.js`, `127_Objects_Real.js`, `128_Primitive_Ref.js`, `129_Object_Examples.js`, `130_IQ.js`, `131_Object_Fn.js`, `132_Obj_Deconstruct.js`, `133_Spread.js`, `134_Objects_Get_Set_Method.js`, `135_IQ.js`, `136_Object_Real.js`, `137_Let_const_obj.js`
 
+- **Chapter 15 - 2D Array**: Two-dimensional arrays in JavaScript — matrix operations, traversal, real-world examples, and pyramid pattern printing
+  - Files: `138_2D_Array.js`, `139_2D_IQ.js`, `140_REAL_Examples.js`, `141_2D_Array_Fn.JS`, `142_Right_Pyramid_pattern.js`, `testdata.csv`
+
+- **Chapter 16 - Callback**: JavaScript callbacks — sync vs async, callback functions, Playwright callbacks, callback hell (pyramid of doom), and real QA scenarios
+  - Files: `143_Callback.js`, `144_CB.js`, `145_CB_Fn.js`, `146_Playwright_CB.js`, `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async_CB.js`, `150_CB_Hell.js`, `151_CB_Hell_Pyramid_Doom.js`
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/)
