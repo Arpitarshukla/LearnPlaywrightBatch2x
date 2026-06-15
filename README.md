@@ -53,6 +53,9 @@ A hands-on repository for learning Playwright automation testing, starting with 
 - **Chapter 16 - Callback**: JavaScript callbacks — sync vs async, callback functions, Playwright callbacks, callback hell (pyramid of doom), and real QA scenarios
   - Files: `143_Callback.js`, `144_CB.js`, `145_CB_Fn.js`, `146_Playwright_CB.js`, `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async_CB.js`, `150_CB_Hell.js`, `151_CB_Hell_Pyramid_Doom.js`
 
+- **Chapter 17 - Promises**: JavaScript promises — Promise basics, real-world API examples, finally block, callback pyramid problem, and Promise.all
+  - Files: `154_Promise.js`, `155_Promise_Real_API.js`, `156_Promise_Real_API_Part_2.js`, `157_Finally.js`, `158_Call_Pyr_Problem.js`, `159_Promise_All.js`, `160_Promise_IQ.js`
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/)
