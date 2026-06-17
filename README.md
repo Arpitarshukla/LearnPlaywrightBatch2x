@@ -56,6 +56,12 @@ A hands-on repository for learning Playwright automation testing, starting with 
 - **Chapter 17 - Promises**: JavaScript promises — Promise basics, real-world API examples, finally block, callback pyramid problem, and Promise.all
   - Files: `154_Promise.js`, `155_Promise_Real_API.js`, `156_Promise_Real_API_Part_2.js`, `157_Finally.js`, `158_Call_Pyr_Problem.js`, `159_Promise_All.js`, `160_Promise_IQ.js`
 
+- **Chapter 18 - Async/Await**: Async/await patterns for handling asynchronous operations — parallel vs sequential execution, async functions, pyramid of doom resolution, and real-world login flow
+  - Files: `161_Async.js`, `162_Async_P2.js`, `163_PyOfDom.js`, `164_Async_Ex.js`, `165_AA_Parallel.js`, `165_AA_Sequential.js`, `166_IQ.js`, `167_ACLogin.js`
+
+- **Chapter 19 - Playwright Basics**: Playwright automation testing setup with Node.js, including Playwright dependency and configuration
+  - Files: `package.json`, `package-lock.json`
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/)

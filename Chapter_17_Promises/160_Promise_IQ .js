@@ -130,9 +130,10 @@ fulfilled➡️API 201 */
 
 
 
+//Promise is also not good therefore there is one conccept async and await
 
-
-
+//Async and await are much cleaner way instead of chaining .then().then(),then()....
+//you write a program that looks synchronous  but works asynchronous
 
 
 
