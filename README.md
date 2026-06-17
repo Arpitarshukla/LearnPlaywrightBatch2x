@@ -59,8 +59,8 @@ A hands-on repository for learning Playwright automation testing, starting with 
 - **Chapter 18 - Async/Await**: Async/await patterns for handling asynchronous operations — parallel vs sequential execution, async functions, pyramid of doom resolution, and real-world login flow
   - Files: `161_Async.js`, `162_Async_P2.js`, `163_PyOfDom.js`, `164_Async_Ex.js`, `165_AA_Parallel.js`, `165_AA_Sequential.js`, `166_IQ.js`, `167_ACLogin.js`
 
-- **Chapter 19 - Playwright Basics**: Playwright automation testing setup with Node.js, including Playwright dependency and configuration
-  - Files: `package.json`, `package-lock.json`
+- **Chapter 19 - Playwright Basics**: Playwright automation testing setup with Node.js, including Playwright dependency, configuration, and a sample test
+  - Files: `package.json`, `package-lock.json`, `tta-cart.spec.ts`
 
 ## Prerequisites
 
@@ -79,3 +79,18 @@ A hands-on repository for learning Playwright automation testing, starting with 
    node <filename>
    ```
 3. Refer to VS Code shortcut guides in `Chapter_03/` for editor tips.
+
+## Running Playwright Tests
+
+1. Navigate to the chapter directory:
+   ```bash
+   cd Chapter_19_Playwright_basics
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the test:
+   ```bash
+   npx playwright test
+   ```
