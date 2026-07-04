@@ -27,3 +27,7 @@ test('test', async ({ page }: { page: Page }) => {
     - paragraph: tta_secret
     `);
 });
+
+//record scenario by using codegen
+//recording all the steps while testing and created script to check logging, username wrong id or pw.
+// you can check all the aspects also check screenshots. this steps and clicking all the options create a code..we can copy it and paste it in playwright.this is codegen. you can run that.
